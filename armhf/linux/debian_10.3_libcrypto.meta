@@ -21,7 +21,7 @@
     "Bit-sliced AES for NEON, CRYPTOGAMS by <appro@openssl.org>",
     "pGGHASH for ARMv4/NEON, CRYPTOGAMS by <appro@openssl.org>"
   ],
-  "arch": "armel",
+  "arch": "armhf",
   "platform": "linux",
   "compiler_version": "8",
   "compiler": "gcc",

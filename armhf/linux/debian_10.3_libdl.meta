@@ -7,7 +7,7 @@
     ".shstrtab",
     ""
   ],
-  "arch": "armel",
+  "arch": "armhf",
   "platform": "linux",
   "compiler_version": "8",
   "compiler": "gcc",
